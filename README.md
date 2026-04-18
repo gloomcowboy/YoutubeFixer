@@ -1,5 +1,5 @@
 # YoutubeFixer 
-Youtube was getting way too much of my attention latelly ...
+Youtube was getting way too much of my attention .............
 
 ## What it does
 
