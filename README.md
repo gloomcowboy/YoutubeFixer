@@ -18,7 +18,11 @@ Youtube was getting way too much of my attention .............
 
 ## Files
 
-manifes.json -> Tells the browser what extension is and where to run
-block.css -> Hides the desired page elements
-content.js -> Watches the page  / redirects the home page to your subscriptions feed
+manifes.json -> Tells the browser what extension is and where to run.
+
+
+block.css -> Hides the desired page elements.
+
+
+content.js -> Watches the page  / redirects the home page to your subscriptions feed.
 
