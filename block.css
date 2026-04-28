@@ -1,5 +1,5 @@
 /* Sidebar on video pages */
-#secondary, #related { display: none !important; }
+/* #secondary, #related { display: none !important; } */
 
 /* "Up next" autoplay */
 ytd-compact-autoplay-renderer { display: none !important; }
